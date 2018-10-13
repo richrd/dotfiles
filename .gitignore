@@ -1,13 +1,9 @@
+.Xauthority
 .bash_history
 .bash_logout
-.directory
+.config/krunnerrc
 .face
 .face.icon
-.Xauthority
-.xsession-errors
 .sudo_as_admin_successful
-
-
-
-
-
+.xsession-errors
+.zsh_history
