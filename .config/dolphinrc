@@ -1,0 +1,35 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+Version=200
+ViewPropsTimestamp=2018,10,12,15,16,36
+
+[IconsMode]
+FontWeight=50
+
+[MainWindow]
+Height 1000=546
+Height 800=500
+Height 941=887
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAADjPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAADjAAAAFoBAAADAAAAAQAAALgAAAOM/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAACYAAAOMAAABDAEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAEzgAAA4wAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1280=750
+Width 1506=748
+Width 1600=640
+Window-Maximized 1000x1600=true
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[SettingsDialog]
+Height 1000=493
+Width 1600=519

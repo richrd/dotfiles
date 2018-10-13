@@ -1,0 +1,36 @@
+[ConfigDialog]
+Height 1000=283
+Width 1600=381
+
+[DownloadDialog Settings]
+Height 941=521
+Width 1506=700
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Recent Files[$e]=120(4K).jpg,file:$HOME/Pictures/wallpapers/120(4K).jpg
+Recent URLs[$e]=file:$HOME/Pictures/wallpapers/
+
+[Main]
+ActiveView=icon_mode
+
+[MainWindow]
+Height 1000=711
+Height 1280=562
+Height 1600=1162
+Height 800=562
+Height 941=667
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABWgAAAKhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=1021
+Width 1506=1204
+Width 1600=1384
+Width 2560=2054
+Width 800=795
+
+[classic_mode]
+autoExpandOneLevel=false
+viewLayout=461,922
