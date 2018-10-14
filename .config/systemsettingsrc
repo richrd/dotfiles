@@ -10,8 +10,8 @@ Width 1506=700
 AutomaticDetectionLanguage=1
 
 [KFileDialog Settings]
-Recent Files[$e]=120(4K).jpg,file:$HOME/Pictures/wallpapers/120(4K).jpg
-Recent URLs[$e]=file:$HOME/Pictures/wallpapers/
+Recent Files[$e]=120(4K).jpg,file:$HOME/pictures/wallpapers/120(4K).jpg
+Recent URLs[$e]=file:$HOME/pictures/wallpapers/
 
 [Main]
 ActiveView=icon_mode
