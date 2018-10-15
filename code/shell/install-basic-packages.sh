@@ -9,6 +9,8 @@ sudo apt install \
     redshift-gtk \
     xclip \
     zsh \
+    curl \
+    tree \
 
 
 

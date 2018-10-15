@@ -1,9 +1,17 @@
+
 .Xauthority
 .bash_history
 .bash_logout
 .config/krunnerrc
 .face
 .face.icon
+.kde/cache*
+.local/share/klipper/
+.local/share/kwalletd/
+.local/share/plasma_notes/
 .sudo_as_admin_successful
+.wget-hsts
 .xsession-errors
+.yarnrc
+.zcomp*
 .zsh_history

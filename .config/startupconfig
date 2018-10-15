@@ -8,6 +8,6 @@ ksplashrc_ksplash_theme=None
 # ksplashrc KSplash Engine KSplashQML
 ksplashrc_ksplash_engine=none
 # kdeglobals KScreen ScreenScaleFactors ''
-kdeglobals_kscreen_screenscalefactors='eDP-1=1.6;DP-1=1.6;HDMI-1=1.6;DP-2=1.6;HDMI-2=1.6;'
+kdeglobals_kscreen_screenscalefactors='eDP-1=1;DP-1=1;HDMI-1=1;DP-2=1;HDMI-2=1;'
 # kcmfonts General forceFontDPI 0
-kcmfonts_general_forcefontdpi=154
+kcmfonts_general_forcefontdpi=0

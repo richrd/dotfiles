@@ -6,6 +6,9 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"ayu"
+		"ayu",
+		"Package Control",
+		"TypeScript",
+		"TypeScript Syntax"
 	]
 }

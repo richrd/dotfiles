@@ -18,7 +18,7 @@ idleTime=300
 [Battery][HandleButtonEvents]
 lidAction=1
 powerButtonAction=16
-triggerLidActionWhenExternalMonitorPresent=false
+triggerLidActionWhenExternalMonitorPresent=true
 
 [Battery][SuspendSession]
 idleTime=600000

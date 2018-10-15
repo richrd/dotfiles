@@ -105,16 +105,29 @@ ForegroundVisited=127,140,141
 [General]
 ColorScheme=Breeze Dark
 Name=Breeze Dark
+font=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
+menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 shadeSortColumn=true
+smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0,Regular
+toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 widgetStyle=Breeze
 
 [Icons]
 Theme=breeze-dark
 
 [KDE]
+ColorScheme=Breeze
+DoubleClickInterval=400
+LookAndFeelPackage=org.kde.breezedark.desktop
+ShowDeleteCommand=false
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
+SingleClick=true
+StartDragDist=4
+StartDragTime=500
+WheelScrollLines=3
 contrast=4
+widgetStyle=Breeze
 
 [Toolbar style]
 ToolButtonStyle=TextBesideIcon
