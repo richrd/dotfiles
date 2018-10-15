@@ -1,13 +1,13 @@
 [Layout]
 DisplayNames=
-LayoutList=
+LayoutList=fi
 LayoutLoopCount=-1
 Model=pc101
-Options=,caps:super
+Options=caps:super
 ResetOldOptions=true
 ShowFlag=false
 ShowLabel=true
 ShowLayoutIndicator=true
 ShowSingle=false
 SwitchMode=Global
-Use=false
+Use=true
