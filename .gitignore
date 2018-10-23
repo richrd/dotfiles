@@ -2,6 +2,7 @@
 .Xauthority
 .bash_history
 .bash_logout
+.cache
 .config/krunnerrc
 .face
 .face.icon
@@ -9,9 +10,15 @@
 .local/share/klipper/
 .local/share/kwalletd/
 .local/share/plasma_notes/
+.mysql_history
+.node-gyp
+.npm
+.ssh
 .sudo_as_admin_successful
+.tig_history
 .wget-hsts
 .xsession-errors
+.yarn
 .yarnrc
 .zcomp*
 .zsh_history

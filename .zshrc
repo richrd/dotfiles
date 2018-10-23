@@ -64,6 +64,7 @@ ZSH_THEME="spaceship"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
+  thefuck
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -133,3 +134,6 @@ SPACESHIP_PROMPT_ORDER=(
 )
 
 eval $(thefuck --alias)
+alias s=suplemon
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
