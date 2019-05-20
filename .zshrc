@@ -63,6 +63,7 @@ ZSH_THEME="spaceship"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
+  command-time
   git
   thefuck
 )
@@ -133,7 +134,11 @@ SPACESHIP_PROMPT_ORDER=(
     char          # Prompt character
 )
 
+export PATH=$HOME/code/shell:$PATH
+
 eval $(thefuck --alias)
 alias s=suplemon
+alias c=clear
+alias upgrade="sudo apt update && sudo apt upgrade"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
